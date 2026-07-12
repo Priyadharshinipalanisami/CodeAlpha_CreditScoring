@@ -198,7 +198,7 @@ python credit_scoring_model.py
 
 # 👨‍💻 Author
 
-**Priyadharshini**
+**Priyadharshini Pazhanisami**
 
 🎓 MCA Student
 💡 Interested in Machine Learning, Artificial Intelligence & Data Science
